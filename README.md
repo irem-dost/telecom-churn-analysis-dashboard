@@ -28,6 +28,9 @@ This project analyzes customer churn behavior in a telecom company using Power B
 - Customers with more complaints are more likely to churn
 - New customers show higher churn tendency
 
+## 📥 Download the Dashboard
+Due to file size limitations, the Power BI (.pbix) file cannot be previewed on GitHub. Please download the file to view it locally.
+
   ![TelecomDashboard](page1.png)
   ![TelecomDashboard](page2.png)
   ![TelecomDashboard](page3.png)
