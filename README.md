@@ -34,5 +34,6 @@ Due to file size limitations, the Power BI (.pbix) file cannot be previewed on G
   ![TelecomDashboard](page1.png)
   ![TelecomDashboard](page2.png)
   ![TelecomDashboard](page3.png)
+  ![TelecomDashboard](page4..png)
   ![TelecomDashboard](page5.png)
 
